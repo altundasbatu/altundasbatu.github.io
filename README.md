@@ -1,2 +1,2 @@
-# altundasbatuhan.github.io
+# altundasbatu.github.io
 Personal Website of Batuhan Altundas
